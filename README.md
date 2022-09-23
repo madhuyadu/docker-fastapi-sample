@@ -65,4 +65,7 @@ use the command "virtual_env_name\Scripts\activate" to activate
 ![image](https://user-images.githubusercontent.com/56335301/191943286-95901b45-37f0-41c7-bcfe-57355147a6b5.png)
 
 
+# Creating virtual environment on Windows
+![image](https://user-images.githubusercontent.com/56335301/191947886-cfbc225e-4c1a-4bf1-8476-a37cb7904b7f.png)
+![image](https://user-images.githubusercontent.com/56335301/191948101-0922fe22-def8-4705-a6f6-e50e160b3caa.png)
 
