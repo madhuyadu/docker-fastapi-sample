@@ -1,2 +1,2 @@
 # docker-fastapi-sample
-Create a sample fastapi application in python &amp; dockerize the same
+Create a sample Python-based fastapi application (taken from https://fastapi.tiangolo.com/)&amp; dockerize the same
