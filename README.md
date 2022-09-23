@@ -48,7 +48,21 @@ use the command "virtual_env_name\Scripts\activate" to activate
 
 ![image](https://user-images.githubusercontent.com/56335301/191941097-8810c955-a3d8-4e04-a535-aba3fb7224a7.png)
 
+- In the cmd prompt of windows, type: docker ps & fetch the container ID
 
+![image](https://user-images.githubusercontent.com/56335301/191942442-153653ae-0a62-4d93-9beb-567458f2c8ce.png)
+
+ - When the command docker exec -it container_ID is executed, we get SHELL inside this container like below
+ ![image](https://user-images.githubusercontent.com/56335301/191942786-6f2314c9-e4e7-47fd-aaf0-af3c32868f03.png)
+
+- And, when we execute ls against this container, we get the files which we moved inside the container (app, requirements.txt)
+![image](https://user-images.githubusercontent.com/56335301/191942939-d95bf764-5e25-4f12-9486-762d0ac98cb4.png)
+
+- We can also go 2 levels up and see the main working directory (fastapi-app) which we created inside the container as part of dockerfile
+![image](https://user-images.githubusercontent.com/56335301/191943159-ea05ef4f-70f2-46ce-8484-b86627df28e9.png)
+
+- And view the contents once again inside this fastapi-app
+![image](https://user-images.githubusercontent.com/56335301/191943286-95901b45-37f0-41c7-bcfe-57355147a6b5.png)
 
 
 
