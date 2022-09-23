@@ -31,5 +31,24 @@ use the command "virtual_env_name\Scripts\activate" to activate
 
 ![image](https://user-images.githubusercontent.com/56335301/191939712-324a23f2-d34d-4c8a-b296-6419c6564f4a.png)
 
+** NOTE:**
+![image](https://user-images.githubusercontent.com/56335301/191941524-1c217f92-4600-4006-9b24-d0e15fac007a.png)
+
+
+- Use "http://127.0.0.1:8000" to view the output
+
+
+![image](https://user-images.githubusercontent.com/56335301/191940785-f4904139-6844-40d0-a559-1dbbe5b6f0fb.png)
+
+- Also check the output on another route/API
+
+![image](https://user-images.githubusercontent.com/56335301/191940909-c3704429-ea0e-41a3-b864-cde9924c168f.png)
+
+- We can also observe all these results on Docker desktop, along with some other interesting stuff related to container details
+
+![image](https://user-images.githubusercontent.com/56335301/191941097-8810c955-a3d8-4e04-a535-aba3fb7224a7.png)
+
+
+
 
 
